@@ -9,7 +9,7 @@ export default function App() {
     <div className="min-h-screen flex flex-col">
       <Navbar />
 
-      <main className="bg-amber-200 flex-1 p-5">
+      <main className="bg-paper flex-1 p-5">
         Body
       </main>
 
