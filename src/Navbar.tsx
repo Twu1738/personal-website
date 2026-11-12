@@ -3,11 +3,11 @@ export function Navbar() {
         <>
         <header className="flex flex-row justify-between bg-neon-green p-5 font-bold text-3xl">
             <div>
-                tw
+                <a href="/">tw</a>
             </div>
 
             <div>
-                about me
+                <a href="/about-me">about me</a>
             </div>
             
             <div>

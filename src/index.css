@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-    --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+    --font-serif: "Noto Serif TC", serif;
 
     /*  temporary colours  */
     --color-ink: #07090a;
