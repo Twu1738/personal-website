@@ -10,13 +10,17 @@ export function Navbar() {
           <a href="/about-me">about me</a>
         </div>
 
-        <div>projects</div>
+        <div>
+          <a href="/projects">projects</a>
+        </div>
 
-        <div>resume</div>
+        <div>
+          <a href="/blog">blog</a>
+        </div>
 
-        <div>blog</div>
-
-        <div>friends</div>
+        <div>
+          <a href="/friends">friends</a>
+        </div>
       </header>
     </>
   );
