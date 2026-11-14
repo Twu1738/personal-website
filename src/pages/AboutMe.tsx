@@ -1,7 +1,7 @@
 export default function AboutMe() {
-    return(
-        <>
-        <p>This is my about me page</p>
-        </>
-    )
+  return (
+    <>
+      <p>Terrence Wu</p>
+    </>
+  );
 }

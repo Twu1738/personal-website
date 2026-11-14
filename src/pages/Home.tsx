@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <>
-    <div className="min-h-screen flex flex-col">
-      <h1>Home Page</h1>
-    </div>
+      <div className="flex min-h-screen flex-col">
+        <h1>Erm hero page goes here when i make one heh tehe</h1>
+      </div>
     </>
-  )
+  );
 }
