@@ -1,7 +1,7 @@
 export function Footer() {
   return (
     <>
-      <footer className="border-neon-green bg-paper flex flex-row justify-between gap-10 border-t-2 p-5 text-lg">
+      <footer className="flex flex-row justify-between gap-10 border-t-2 border-gray-700 p-5 text-lg">
         <div className="">
           <p>© Terrence Wu 2026</p>
         </div>

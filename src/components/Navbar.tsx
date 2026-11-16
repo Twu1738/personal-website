@@ -1,7 +1,7 @@
 export function Navbar() {
   return (
     <>
-      <header className="bg-neon-green flex flex-row justify-between p-5 text-3xl font-bold">
+      <header className="flex flex-row justify-between border-b-2 border-gray-700 p-5 text-3xl font-bold">
         <div>
           <a href="/">tw</a>
         </div>
